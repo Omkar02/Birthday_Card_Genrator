@@ -46,5 +46,5 @@ for names in all_name[0]:
     Card_Prep(names, rand_card, quotes[rand_quotes], path1 + '/' + files1[rand_font])
 
     print(f'Saved for {names}')
-#
+
 
