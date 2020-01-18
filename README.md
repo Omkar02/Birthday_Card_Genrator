@@ -4,8 +4,6 @@ Alpha Stage!
 ![Untitled](https://user-images.githubusercontent.com/13944940/72666961-e4d78600-3a3c-11ea-9125-a53d02ca6d83.png)
 ## Fonts
 - Great Wishes
-- hatmiwhitedafont
-- Holiday Script
 - Luna
 - Springfield demo
 - TheSkinny
