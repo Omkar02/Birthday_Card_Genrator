@@ -8,5 +8,8 @@ quotes = {
 }
 
 font_size_sort = {
-
+    'All_font/Great Wishes.otf' : 76,
+    'All_font/Luna.ttf' : 60,
+    'All_font/Springfield demo.ttf' : 160,
+    'All_font/TheSkinny.otf' : 126
 }
