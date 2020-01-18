@@ -6,6 +6,8 @@ import random
 import os
 import csv
 
+if os.path.exists("output") == False:
+    os.makedirs('output')
 
 
 
