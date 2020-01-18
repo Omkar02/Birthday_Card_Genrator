@@ -29,7 +29,7 @@ file_count = len(files)
 
 path1, dirs1, files1 = next(os.walk("All_font"))
 file_count1 = len(files1)
-# rand_font = random.randint(0,file_count1)
+
 
 
 with open("names.txt", "r") as f:
