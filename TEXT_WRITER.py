@@ -44,9 +44,9 @@ for names in all_name[0]:
     rand_card = random.randint(1, file_count)
     rand_font = random.randint(0, file_count1-1)
 
-    print(names, rand_card, rand_quotes, files1[rand_font])
-    Card_Prep(names, rand_card, quotes[rand_quotes], path1 + '/' + files1[rand_font])
+    print(names.title(), rand_card, rand_quotes, files1[rand_font])
+    Card_Prep(names.title(), rand_card, quotes[rand_quotes], path1 + '/' + files1[rand_font])
 
-    print(f'Saved for {names}')
+    print(f'Saved for {names.title()}')
 
 
